@@ -1,4 +1,4 @@
-# name: Browser History
+# name: discourse-browser-history
 # about: Avoid using replace state when navigating through topics
 # version: 0.2
 # authors: Sam Saffron, pangbo

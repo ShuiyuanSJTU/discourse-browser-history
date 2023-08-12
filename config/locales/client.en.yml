@@ -1,0 +1,4 @@
+en:
+  js:
+    browser-history:
+      protect_history: "Don't update URL while scrolling through topics"

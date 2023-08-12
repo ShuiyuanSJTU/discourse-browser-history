@@ -1,0 +1,4 @@
+zh_CN:
+  js:
+    browser_history:
+      protect_history: "在话题内浏览时，不更新URL"
